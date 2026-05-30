@@ -1,0 +1,6 @@
+{
+  "name": "Temu Mario - P2P Competitive Game",
+  "description": "A hilarious Temu-themed Mario-like competitive game where players race, pop coupons, run from shipping fees, and battle locally or via P2P rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
